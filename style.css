@@ -15,3 +15,9 @@ header {
     text-align: center;
     color: cornsilk;
 }
+label {
+    color: white;
+}
+#exampleFormControlSelect2 {
+    width: 100px;
+}
